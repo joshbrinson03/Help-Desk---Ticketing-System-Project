@@ -106,7 +106,7 @@ The following types of tickets were created and resolved during this lab:
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](screenshots/dashboard.png)
+![image alt](https://github.com/joshbrinson03/Help-Desk---Ticketing-System-Project/blob/7b763f19d9f92386906543997680e77fd702a23c/Dashboard.png)
 
 ### 📄 Ticket List
 ![Ticket List](screenshots/ticket-list.png)
