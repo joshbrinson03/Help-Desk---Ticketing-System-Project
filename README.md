@@ -112,7 +112,7 @@ The following types of tickets were created and resolved during this lab:
 ![image alt](https://github.com/joshbrinson03/Help-Desk---Ticketing-System-Project/blob/524ec1b65df589da2193295e4b1abd9854c0a698/Ticket%20List.png)
 
 ### 🧾 Example Ticket
-![Ticket Example](screenshots/ticket-example.png)
+![image alt](https://github.com/joshbrinson03/Help-Desk---Ticketing-System-Project/blob/92033ea20cb07e0dbed82253dd22616e3ab8b72e/Example%20Ticket.png)
 
 ### 🗒️ Internal Notes
 ![Internal Notes](screenshots/internal-notes.png)
